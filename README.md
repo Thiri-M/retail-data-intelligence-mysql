@@ -184,7 +184,7 @@ A visual representation of the retail database schema is provided below: <br/>
 ---
 
 ## 📁 File Structure
-fashion_sales_project/ <br/>
+retail-data-intelligence-mysql/ <br/>
     └── fashion_sales_analysis.sql <br/>
     └── fashion_sales_dashboard.pbix <br/>
     └── README.md <br/>
