@@ -1,4 +1,4 @@
-# 🛍️ Fashion Retail Intelligence: MySQL-Powered Business Insights
+# 🛍️ Fashion Retail Intelligence: MySQL-Power BI
 This project explores a simulated fashion retail sales data using MySQL generate actionable business insights. Through structured queries, we uncover key patterns in store performance, product trends, customer demographics, and promotional effectiveness. <br/>
 The objective is to demonstrate advanced SQL skills and deliver insights that help inform strategic business decisions in the retail sector.
 
